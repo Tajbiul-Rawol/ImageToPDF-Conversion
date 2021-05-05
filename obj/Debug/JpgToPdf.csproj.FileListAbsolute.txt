@@ -1,0 +1,17 @@
+D:\LocalDiskH 2\JPGTOPDF\JpgToPdf\bin\Debug\JpgToPdf.exe.config
+D:\LocalDiskH 2\JPGTOPDF\JpgToPdf\bin\Debug\JpgToPdf.exe
+D:\LocalDiskH 2\JPGTOPDF\JpgToPdf\bin\Debug\JpgToPdf.pdb
+D:\LocalDiskH 2\JPGTOPDF\JpgToPdf\bin\Debug\PdfSharp.Charting.dll
+D:\LocalDiskH 2\JPGTOPDF\JpgToPdf\bin\Debug\PdfSharp.dll
+D:\LocalDiskH 2\JPGTOPDF\JpgToPdf\bin\Debug\PdfSharp.xml
+D:\LocalDiskH 2\JPGTOPDF\JpgToPdf\bin\Debug\PdfSharp.Charting.xml
+D:\LocalDiskH 2\JPGTOPDF\JpgToPdf\bin\Debug\de\PdfSharp.resources.dll
+D:\LocalDiskH 2\JPGTOPDF\JpgToPdf\bin\Debug\de\PdfSharp.Charting.resources.dll
+D:\LocalDiskH 2\JPGTOPDF\JpgToPdf\obj\Debug\JpgToPdf.csprojAssemblyReference.cache
+D:\LocalDiskH 2\JPGTOPDF\JpgToPdf\obj\Debug\JpgToPdf.Form1.resources
+D:\LocalDiskH 2\JPGTOPDF\JpgToPdf\obj\Debug\JpgToPdf.Properties.Resources.resources
+D:\LocalDiskH 2\JPGTOPDF\JpgToPdf\obj\Debug\JpgToPdf.csproj.GenerateResource.cache
+D:\LocalDiskH 2\JPGTOPDF\JpgToPdf\obj\Debug\JpgToPdf.csproj.CoreCompileInputs.cache
+D:\LocalDiskH 2\JPGTOPDF\JpgToPdf\obj\Debug\JpgToPdf.csproj.CopyComplete
+D:\LocalDiskH 2\JPGTOPDF\JpgToPdf\obj\Debug\JpgToPdf.exe
+D:\LocalDiskH 2\JPGTOPDF\JpgToPdf\obj\Debug\JpgToPdf.pdb
